@@ -17,3 +17,6 @@ I plan to learn a bunch of new langaues this is just the start.
 so far it cal get a user input for thier name and output "HELLO: " followed by their name this is a very basic start to brainfuck and I will hopefully program a cool thing in it some time soon.
 
 I have also made a brainfuck interpreter in [google sheets](http://bit.ly/2X1q8h6), this is to be used as a learning tool and thus is slow so the user is able to see what happens as the programme steps through the code.
+
+## Computer
+I am Currently developing a computer to run on bf code, I will upload the schematics once I have made significant progress.
