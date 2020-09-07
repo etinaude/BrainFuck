@@ -1,5 +1,5 @@
-# Brainfuck-practice
-I am learning to program in [brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+# Brainfuck
+This is some code written in [brainfuck](https://en.wikipedia.org/wiki/Brainfuck), a simplistic, esoteric programming language, with only 8 instructions, it is turning complete.
 
 brain fuck consists of 8 characters.<br>
   \>   move the data pointer right<br>
@@ -11,12 +11,10 @@ brain fuck consists of 8 characters.<br>
   \[   if the current cell is 0 jump forwards to the instruction after the next ]<br>
   ]   if the current cell is non-0 jump backwards to the instrucytion after the previous \[<br>
 
-so it's a fairly LLL which is turing complete
+I have also made a brainfuck interpreter in [google sheets](http://bit.ly/2X1q8h6), I made this to be a learning tool, it executes the code slowly so the user is able to see what happens as the programme steps through the code.
 
-I plan to learn a bunch of new langaues this is just the start. 
-so far it cal get a user input for thier name and output "HELLO: " followed by their name this is a very basic start to brainfuck and I will hopefully program a cool thing in it some time soon.
-
-I have also made a brainfuck interpreter in [google sheets](http://bit.ly/2X1q8h6), this is to be used as a learning tool and thus is slow so the user is able to see what happens as the programme steps through the code.
+![interpreter picture](https://github.com/etinaude/BrainFuck/blob/master/pictures/demo.png)
 
 ## Computer
-I am Currently developing a computer to run on bf code, I will upload the schematics once I have made significant progress.
+
+I am Currently developing a computer PCB to run on bf code, I will upload the schematics once I have made more progress.
